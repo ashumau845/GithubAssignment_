@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubAssignment</string>
+    <string name="send_data">SEND_DATA</string>
+    <string name="position">position</string>
+</resources>
